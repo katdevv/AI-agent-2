@@ -1,7 +1,7 @@
 # AI Agent from Scratch  
 
-This project is a lightweight **AI research agent** built from scratch with **OpenAI API** and **LangChain**.  
-It integrates external knowledge sources like **DuckDuckGo** and **Wikipedia**, and extends them with my own **custom tools** — including a text-saving utility that automatically writes research outputs to a `.txt` file.  
+This project is an **AI research agent** built from scratch with **OpenAI API** and **LangChain**.
+It integrates external knowledge sources like **DuckDuckGo** and **Wikipedia**, and extends them with my own **custom tool** — a text-saving utility that automatically writes research outputs to a `.txt` file.  
 
 The goal of this project is to demonstrate how an agent can:  
 - Take a user query  
